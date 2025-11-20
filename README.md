@@ -16,7 +16,7 @@ A Telegram webhook-based bot designed to download Instagram reels, posts, storie
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/LICENSE-CC%20BY%20MIT-red?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LICENSE-%20BY%20MIT-red?style=for-the-badge"/>
     <img src="https://img.shields.io/github/stars/ismoiloffS/InstaDownload.svg?style=for-the-badge&color=red"/>
     <img src="https://img.shields.io/github/issues/ismoiloffS/InstaDownload?style=for-the-badge&color=red"/>
     <a href="https://t.me/ismoiloff_S">
